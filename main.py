@@ -1,10 +1,3 @@
-#######################################################
-#                                                     #
-# Made By Dropout#0004 | Dont Fucking Skid It.        #
-#                                                     #
-#######################################################
-
-
 import requests
 import colorama
 import threading
@@ -26,16 +19,7 @@ ctypes.windll.kernel32.SetConsoleTitleW(f"[REPORT BOT] By Dropout | Dont Skid Me
 
 print(f"""
 
-{b+Fore.BLUE}  _____                       _       ____        _   
- |  __ \                     | |     |  _ \      | |  
- | |__) |___ _ __   ___  _ __| |_    | |_) | ___ | |_ 
- |  _  // _ \ '_ \ / _ \| '__| __|   |  _ < / _ \| __|
- | | \ \  __/ |_) | (_) | |  | |_    | |_) | (_) | |_ 
- |_|  \_\___| .__/ \___/|_|   \__|   |____/ \___/ \__|
-            | |                                   
-            |_|                                   
-
-PS: Must Have Admin On The Server ;)
+{b+Fore.BLUE}
 
 {b+Fore.BLUE} > {Fore.RESET}Creator: Dropout#0004
 
