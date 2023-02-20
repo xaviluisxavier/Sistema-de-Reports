@@ -15,7 +15,7 @@ b = Style.BRIGHT
 os = os.system
 os('cls')
 
-ctypes.windll.kernel32.SetConsoleTitleW(f"[REPORT BOT] By Dropout | Dont Skid Me ;) ")
+ctypes.windll.kernel32.SetConsoleTitleW(f"[REPORT BOT] By XAVI | Dont Skid Me ;) ")
 
 print(f"""
 
